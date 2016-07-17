@@ -18,7 +18,8 @@ REWRITE TODO
     - use SQLlite for the db
     - use a NoSQL db
     - webify with Flask
-
+    - use 'git' to track - DONE
+    - use github for backup
 """
 
 import json
