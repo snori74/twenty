@@ -1,0 +1,1 @@
+[["Does it quack?", 2, 1], ["Does it Meaow?", "cat", 4], ["fake", 3, "duck"], ["does it cluck?", "hen", "fake duck"], ["does it bark?", "dog", 5], ["does it live in water", 6, 7], ["does it live in SALT water?", "shark", "alligator"], ["does it have a trunk?", "elephant", "pig"]]
