@@ -2,10 +2,8 @@
 
 """ A simple 20 Questions game  
 
-TODO
- - say "a" or "an" appropriatly
-
 REWRITE TODO
+    - say "a" or "an" appropriatly
     - change to python3 - DONE
         - python3 at the top - DONE
         - print() - DONE
