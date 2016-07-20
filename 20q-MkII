@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-"""20 Questions game
-
-My first from-scratch Python program! - NOW REWRITTEN!!!
+""" A simple 20 Questions game  
 
 TODO
  - say "a" or "an" appropriatly
