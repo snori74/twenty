@@ -2,20 +2,22 @@
 
 """ A simple 20 Questions game  
 
-REWRITE TODO
+TODO
     - say "a" or "an" appropriatly
-    - change to python3 - DONE
-        - python3 at the top - DONE
-        - print() - DONE
-        - the whole utf8 thing... - DONE
     - add more functions
     - split function out into modules
     - play with classes (maybe)
     - use SQLlite for the db
     - use a NoSQL db
     - webify with Flask
-    - use 'git' to track - DONE
     - use github for backup
+DONE
+    - change to python3 - DONE
+     - python3 at the top - DONE
+     - print() - DONE
+     - the whole utf8 thing... - DONE
+    - use 'git' to track - DONE
+   
 """
 
 import json
